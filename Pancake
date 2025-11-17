@@ -13,6 +13,7 @@ public class Pancake{
     else{
       cooklevel="Burnt";
     }
+    return cooklevel;
   }
   
 }
